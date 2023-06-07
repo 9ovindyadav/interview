@@ -1,40 +1,6 @@
-> 07 May 2023
-# JS and React interview
+## Git and Github interview questions
 
-1. > Tell me about yourself 
-
-**Answer** :
-
-2. > let and var difference ?
-
-**Answer** :
-
-3. > javaScript is async or sync ?
-
-**Answer** : JavaScript is asynchronous by default but it can perform synchronous operation as well.
-
-4. > difference between arrow and normal function
-
-**Answer** :
-
-5. > what is async programming means ?
-
-**Answer** :
-
-6. > what does useeffect do in react ?
-
-**Answer** :
-
-7. > What is component in react ?
-
-
-**Answer** :
-
-8. > functional and class based components in react ?
-
-**Answer** :
-
-9. > What is the difference between git pull and git fetch ?
+1. > What is the difference between git pull and git fetch ?
 
 **Answer** :
 Git pull and git fetch are both Git commands used to update a local repository with changes from a remote repository. However, there are differences between them:
@@ -55,4 +21,3 @@ Git pull and git fetch are both Git commands used to update a local repository w
 - "git fetch" updates the remote-tracking branches without modifying the local branch, allowing you to review the changes before merging them.
 - "git pull" fetches the changes and automatically merges them into the current local branch.
 - "git pull" is more convenient for quickly updating the local branch, but git fetch provides more control and visibility over the changes before merging.
-
